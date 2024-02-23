@@ -143,7 +143,10 @@ body {
   }  
 
 /* Main Table */
-
+a {
+    text-decoration: none;
+    color: white;
+}
 main {
     position: absolute;
     top: 15%;
